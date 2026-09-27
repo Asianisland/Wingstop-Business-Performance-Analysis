@@ -49,13 +49,11 @@ The comparison identifies trends occurring during the same reporting periods and
 
 ## Stakeholder Summary
 
-The analysis shows that Wingstop continued to grow at the company level while existing-store performance remained under pressure.
+Wingstop's company-level growth and existing-store performance showed different trends during the periods analyzed. System-wide sales and restaurant count increased, indicating continued expansion, while same-store sales remained negative and domestic AUV declined.
 
-From Q4 2025 through Q2 2026, system-wide sales and restaurant count increased, demonstrating continued overall expansion. However, domestic AUV declined and same-store sales remained negative throughout the periods analyzed.
+At the same time, reported share repurchase spending increased between Q4 2025 and Q1 2026. This provides an additional view of how the company was allocating capital while existing-store performance remained under pressure.
 
-Capital allocation provided an additional point of comparison. Reported share repurchase spending increased from approximately **$60.00 million in Q4 2025 to $77.88 million in Q1 2026**. During that same Q4-to-Q1 period, same-store sales weakened from **-5.8% to -8.7%**, while domestic AUV declined from **$2.000 million to $1.956 million**.
-
-Overall, Wingstop's expansion and higher system-wide sales occurred alongside weaker existing-store performance, while the company was also increasing reported spending on share repurchases. These findings show concurrent trends and do not establish a causal relationship between share repurchases and operating performance.
+Overall, the analysis highlights the importance of evaluating Wingstop's expansion alongside the performance of its existing restaurants and its capital allocation activity. The trends are presented as concurrent observations and do not establish a causal relationship.
 
 ## Selected SQL
 
