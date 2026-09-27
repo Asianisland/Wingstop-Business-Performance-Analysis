@@ -32,6 +32,7 @@ The prepared data was then connected to Power BI to create an interactive dashbo
 
 The dashboard was designed to compare overall company growth with existing-store performance and capital allocation across the reporting periods analyzed.
 
-![Wingstop Business Performance Dashboard](images/Wingstop Power BI Dashboard.png)
+![Wingstop Business Performance Dashboard](images/Wingstop%20Power%20BI%20Dashboard.png)
+
 
 
